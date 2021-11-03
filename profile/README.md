@@ -1,4 +1,4 @@
-# We are Automec!
+# We are AutoMec!
 Welcome to our profile! 
 We are a student organization that is a part of [Department of Mechanical Engineering of the University of Aveiro](https://www.ua.pt/en/dem/) who specializes on robotics and automation.\
 Currently, we divide ourselves into two projects, the [autonomous car](https://github.com/AutomecUA/AutoMec-AD) and the autonomous drone, although new projects are always welcome!\
